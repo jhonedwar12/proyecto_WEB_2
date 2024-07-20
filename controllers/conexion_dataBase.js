@@ -7,7 +7,7 @@ export class ConexionDataBase {
       host: 'localhost',
       user: 'postgres',
       password: '1',
-      database: 'proyecto_web2',
+      database: 'ventas_db',
       port: 5432
     });
   }
